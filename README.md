@@ -1,1 +1,1 @@
-# sCNN-FPGA-
+# sCNN-FPGA
